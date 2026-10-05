@@ -47,7 +47,7 @@
 - Um **Paciente** possui um **Histórico Médico**, que reúne suas consultas e internações.
 - Um **Profissional da Saúde** não pode ter dois atendimentos agendados para o mesmo horário.
 
-## 3. Diagrama em Mermaid
+## 3. Diagrama
 
 ```mermaid
 classDiagram
