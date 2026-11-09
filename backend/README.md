@@ -18,6 +18,7 @@ Requisitos: Java 17 e Maven 3.9+.
 
 ```bash
 cd backend
+mvn test
 mvn spring-boot:run
 ```
 
