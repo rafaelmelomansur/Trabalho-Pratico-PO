@@ -36,7 +36,6 @@ A API ficará disponível em `http://localhost:8080`.
 | GET/POST | `/quartos` | Listar e cadastrar quartos |
 | GET/POST/PATCH | `/procedimentos-cirurgicos` | Gerenciar procedimentos cirúrgicos |
 
-Os dados são armazenados em memória e reiniciados ao parar a aplicação. A persistência em MySQL, PostgreSQL ou MongoDB deverá ser definida e justificada em uma Sprint posterior.
 
 ## Exemplo de consulta de emergência
 
